@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sarikangalkoyun.netlify.app/sitemap.xml
